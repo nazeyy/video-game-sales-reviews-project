@@ -1,9 +1,16 @@
-# video-game-sales-reviews-project
-DSA210 Project Fall 2025-Sabancı University
-### **Video Game Sales & Player Reviews: What Makes a Good Game?**
-As my DSA210 project, I’ve chosen to go with a topic that intrigues me: Video games. While it may not be known by everyone, the video game business is a multi billion dollar industry that continues to grow each year. As technology evolves, the gaming industry evolves with it. By analizing not only the sales data but also the player reviews, this project aims to understand the factors that make a “good” game in the eyes of the gamers. Understanding how and why certain games preform better than others, and the aspects that might be contributing to this performance such as pricing, genre, marketing, and etc. is a valuable insight to not oly the game developers but also for the gamers.
+# video-game-sales-reviews-project  
+DSA210 Project Fall 2025 – Sabancı University  
 
-**Data Sources**
-Game Sales: Primarily from [VGChartz](https://www.vgchartz.com/) and possibly other open datasets tracking game sales across various platforms.
-Game Reviews: From sources like [OpenCritic](https://opencritic.com/), Reddit discussions, and [Metacritic](https://www.metacritic.com/).
-Platform Metadata: Potentially from Steam, Epic Games, and Origin to include additional information such as genres, publishers, and reviews.
+### **Video Game Sales & Player Reviews: What Makes a Good Game?**
+
+## Introduction  
+While it may not be obvious to everyone, the video game industry is a multi-billion-dollar market that continues to grow each year. As technology advances, the gaming industry evolves alongside it. By analyzing not only sales data but also player reviews, this project aims to understand the factors that define a “good” game from the gamers’ perspective. Exploring why certain titles perform better than others—and examining elements such as pricing, genre, marketing, and more—provides valuable insights not only for developers but also for players.
+
+## Motivation  
+For my DSA210 project, I’ve chosen a topic that intrigues me: video games. Through this analysis, we can uncover the correlation between raw sales figures and player experience. The findings will inform developers, publishers, and marketers about which factors resonate most with audiences, assist in crafting better games and marketing strategies, and guide players toward titles they’re likely to enjoy.
+
+## Data Sources  
+- **Game Sales**: Primarily from [VGChartz](https://www.vgchartz.com/) and other open datasets tracking game sales across various platforms.  
+- **Game Reviews**: From sources such as [OpenCritic](https://opencritic.com/), Reddit discussions, and [Metacritic](https://www.metacritic.com/).  
+- **Platform Metadata**: Potentially from Steam, Epic Games, and Origin, including information on genres, publishers, and user tags.  
+
