@@ -94,4 +94,7 @@ These machine learning models will used to help predict game sales and determine
 - **Real-Time Predictive Modeling:** Observe trends and predict sales based on pre-release reviews and feedback.
 - **Advanced Methods:** Use ther advanced techniques to get more sophisticated and detailed data analysis.
 
+###  Disclosure
+Data from internet and AI was used to  only help debug errors, and contribute in machine learning steps. There is no direct use of content other than the data that is cited.
+
 
